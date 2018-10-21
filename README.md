@@ -2,7 +2,7 @@
 
 # راهنمای تصویری الگوهای طراحی Design patterns
 
-<div dir="center">
+
 - Gang of For (GOF)
 ![Gang of For](https://www.flickr.com/photos/10591680@N07/1499817187)
 - 
